@@ -15,6 +15,10 @@
             int maxInt = GenericMethod.ToPrint(12, 55, 78);
             float maxfloat = GenericMethod.ToPrint(12.1f, 25.1f, 42.2f);
             string maxstring = GenericMethod.ToPrint("Apple", "Peach", "Banana");
+            Console.WriteLine("\n-------------> GENERIC CLASS <--------------------");
+            int MaxInt = GenericClass<int>.toPrint(12, 55, 78);
+            float MaxFloat = GenericClass<float>.toPrint(12.1f, 25.1f, 42.2f);
+            string MaxString = GenericClass<string>.toPrint("Apple", "Peach", "Banana");
         }
     }
 }
