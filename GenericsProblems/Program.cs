@@ -11,6 +11,10 @@
             float maxFloat = FindMaxValue.MaxFloatValue(14.2f, 15.2f, 43.2f);
             Console.WriteLine("\n-----------> Max String <-----------------");
             string maxString = FindMaxValue.MaxString("Apple", "Peach", "Banana");
+            Console.WriteLine("\n----------------> GENERIC METTHOD <----------------- ");
+            int maxInt = GenericMethod.ToPrint(12, 55, 78);
+            float maxfloat = GenericMethod.ToPrint(12.1f, 25.1f, 42.2f);
+            string maxstring = GenericMethod.ToPrint("Apple", "Peach", "Banana");
         }
     }
 }

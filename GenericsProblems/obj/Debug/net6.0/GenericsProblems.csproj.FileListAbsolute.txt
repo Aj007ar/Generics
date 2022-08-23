@@ -1,8 +1,4 @@
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.exe
-D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.deps.json
-D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.runtimeconfig.json
-D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.dll
-D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.pdb
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.csproj.AssemblyReference.cache
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.GeneratedMSBuildEditorConfig.editorconfig
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.AssemblyInfoInputs.cache
@@ -11,5 +7,9 @@ D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsP
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.dll
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\refint\GenericsProblems.dll
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\bin\Debug\net6.0\GenericsProblems.pdb
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\GenericsProblems.genruntimeconfig.cache
 D:\BL\LinuxBatch-560\LFP-183-DotNet\Generic\Generics\Generics\Generics\GenericsProblems\obj\Debug\net6.0\ref\GenericsProblems.dll
