@@ -9,6 +9,8 @@
             int max = FindMaxValue.MaxIntValue(45, 25, 55);
             Console.WriteLine("\n----------------> Max Float Value <--------------");
             float maxFloat = FindMaxValue.MaxFloatValue(14.2f, 15.2f, 43.2f);
+            Console.WriteLine("\n-----------> Max String <-----------------");
+            string maxString = FindMaxValue.MaxString("Apple", "Peach", "Banana");
         }
     }
 }

@@ -23,5 +23,12 @@ namespace GenericsProblems
             Console.WriteLine("Maximum number is {0}",maxFloat);
             return maxFloat;
         }
+        public static string MaxString(string s1,string s2,string s3)
+        {
+            string maxString = s1.CompareTo(s2) == 1 ? s1 : s2;
+            maxString = maxString.CompareTo(s3) == 1 ? maxString : s3;
+            Console.WriteLine("Max String is {0}",maxString);
+            return maxString;
+        }
     }
 }
